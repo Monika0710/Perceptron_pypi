@@ -1,6 +1,6 @@
 # Perceptron_pypi
 
-## How to use this
+## How to use this logic
 
 ```python
 from Perceptron.perceptron import Perceptron
